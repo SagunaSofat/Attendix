@@ -1,0 +1,19 @@
+.login-submit {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #315f9e;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+.login-submit:hover {
+    background-color: #243b64;
+}
+
